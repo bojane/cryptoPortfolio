@@ -1,0 +1,6 @@
+Type,Crypto,Amount,Price When Bought,Date Bought
+Stable,liquity-usd,6,1,20240811
+Crypto,bitcoin,1,60000,20240811
+
+# remove "_template" for using file in code
+
